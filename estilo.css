@@ -1,0 +1,14 @@
+body {
+  background: rgb(87, 32, 133);
+
+}
+h1{
+  text-align: center;
+}
+.caixa1 {
+  position: absolute;
+  background:#835eeb
+  width: 200px;
+  height: 200px;
+  left: 200px
+}
